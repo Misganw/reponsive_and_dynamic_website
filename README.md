@@ -10,7 +10,7 @@ this website wase designed using bootstrap and codeginiter.
 #=============== CSS and JavaScript ==============================
 
 you can get the CSS IN C:\xampp\htdocs\Etech\assets\css AND JavaScript file in C:\xampp\htdocs\Etech\assets\js
-create the database named as e_tech and import the e_tach database found in database folder.
+create the database named as e_tech and import the e_tach database.
 use the database password: r00tme1221
 
 ================================== authentications    ======================
