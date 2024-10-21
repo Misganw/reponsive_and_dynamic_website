@@ -14,6 +14,7 @@ create the database named as e_tech and import the e_tach database found in data
 use the database password: r00tme1221
 
 ================================== authentications    ======================
+
 username: admin
 passwprd: admin123
 
